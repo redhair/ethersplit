@@ -1,0 +1,9 @@
+{
+  "name": "ELF MALE",
+  "gender": "MALE",
+  "race": "ELF",
+  "description": "A MALE warrior of the ELF race",
+  "image": "https://ipfs.io/ipfs/QmYGD2cR1hFoXxqfhbkSdV4cXZh8SC22fdsJ8PNHVQGbG4?filename=elf.png",
+  "edition": "",
+  "attributes": [{ "trait_type": "dopeswag", "value": 100 }]
+}

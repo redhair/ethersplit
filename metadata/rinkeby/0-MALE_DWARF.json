@@ -1,0 +1,9 @@
+{
+  "name": "DWARF MALE",
+  "gender": "MALE",
+  "race": "DWARF",
+  "description": "A MALE warrior of the DWARF race",
+  "image": "https://ipfs.io/ipfs/QmUMTJhW2ezy9PHt99W9yyQSVPxbBTm3AjYy17w4XBXyqd?filename=dwarf.png",
+  "edition": "",
+  "attributes": [{ "trait_type": "dopeswag", "value": 100 }]
+}
