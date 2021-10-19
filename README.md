@@ -1,6 +1,4 @@
-# ethersplit
-
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=&logo=Ethereum&logoColor=white)
+# ethersplit ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=&logo=Ethereum&logoColor=white)
 
 EtherSplit core smart contracts
 
