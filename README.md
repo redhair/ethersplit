@@ -1,20 +1,8 @@
-# etherscape-core
+# ethersplit
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=&logo=Ethereum&logoColor=white)
 
-<br/>
-<p align="center">
-<a href="https://chain.link" target="_blank">
-<img src="https://raw.githubusercontent.com/PatrickAlphaC/nft-mix/main/img/shiba-inu.png" width="225" alt="NFT Shiba Inu">
-<img src="https://raw.githubusercontent.com/PatrickAlphaC/nft-mix/main/img/pug.png" width="225" alt="NFT Pug">
-<img src="https://raw.githubusercontent.com/PatrickAlphaC/nft-mix/main/img/st-bernard.png" width="225" alt="NFT St.Bernard">
-</a>
-</p>
-<br/>
-
-This is a repo to work with and use NFTs smart contracts in a python environment, using the Chainlink-mix as a starting point.
-
-If you'd like to see another repo using random NFTs that are deployed to mainnet, check out the [D&D package](https://github.com/PatrickAlphaC/dungeons-and-dragons-nft).
+EtherSplit core smart contracts
 
 ## Prerequisites
 
